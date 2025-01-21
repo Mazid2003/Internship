@@ -26,4 +26,8 @@ Gained practical insights into Salesforce applications across industries such as
 
 Acquired knowledge on maintaining customer details and managing Salesforce solutions.
 
-Completed the Salesforce Developer Super Badge and several modules and tasks
+Completed the Salesforce Developer Super Badge and several modules and tasks.
+
+you can check my badges and completed modules in>> 
+
+Trailhead.salesforce account:https://www.salesforce.com/trailblazer/mmazid2
