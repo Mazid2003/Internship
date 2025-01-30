@@ -1,33 +1,39 @@
-This respository contains the internships which i have done while pursuing my Bachelors Degree.
+**🎓 Internship Experience**
 
-1. Full Stack Development (MERN)- (May 2024 - june 2024)
-Which was provided by SmartInternz
+This repository contains details of the internships I completed while pursuing my Bachelor’s Degree in Artificial Intelligence and Data Science.
 
-About:
+**🚀 Internships Completed:**
 
-It was a 2 months internship. In this internship, i've acquired knowledge about..
+**1️⃣ Full Stack Development (MERN) – SmartInternz**
 
-Developing and maintaining static websites using HTML, CSS, and JavaScript.
+📅 Duration: May 2024 - June 2024
 
-Worked extensively with MongoDB, Express.js, React.js, and Node.js.
+**About:**
 
-Earned MongoDB certification and completed various assignments and tasks.
+✅ Developed and maintained static websites using HTML, CSS, and JavaScript.
 
-Developed my personal and professional Portfolio to showcase my skills and achievements.
+✅ Worked extensively with MongoDB, Express.js, React.js, and Node.js (MERN Stack).
 
-2. Salesforce- (May 2023 - june 2023)
-Which was provided by SmartBridge.
+✅ Earned a MongoDB certification and completed various assignments & tasks.
 
-About:
+✅ Built a personal & professional portfolio to showcase my skills and achievements.
 
-It was a 2 months internship. In this internship, i've acquired..
+**2️⃣ Salesforce – SmartBridge**
 
-Gained practical insights into Salesforce applications across industries such as sales, marketing, and customer service.
+📅 Duration: May 2023 - June 2023
 
-Acquired knowledge on maintaining customer details and managing Salesforce solutions.
+**About:**
 
-Completed the Salesforce Developer Super Badge and several modules and tasks.
+✅ Gained hands-on experience with Salesforce applications in sales, marketing, and customer service.
 
-you can check my badges and completed modules in>> 
+✅ Learned how to manage customer details & Salesforce solutions.
 
-Trailhead.salesforce account:https://www.salesforce.com/trailblazer/mmazid2
+✅ Successfully completed the Salesforce Developer Super Badge and multiple modules.
+
+**📜 Check my Salesforce Badges & Modules:**
+
+🔗 Trailhead Profile: [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/mmazid2)
+
+This repository serves as a record of my hands-on learning and industry exposure in Full Stack Development & Salesforce CRM.
+
+
