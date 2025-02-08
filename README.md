@@ -1,4 +1,4 @@
-**🎓 Internship Experience**
+# 🎓 Internship Experience
 
 This repository contains details of the internships I completed while pursuing my Bachelor’s Degree in Artificial Intelligence and Data Science.
 
